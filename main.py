@@ -108,3 +108,5 @@ Please Choose A Number To Host Template:
 
 except KeyboardInterrupt:
     pass
+
+input("Exit")
